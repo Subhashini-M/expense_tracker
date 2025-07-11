@@ -38,7 +38,7 @@ This app uses **Google's Gemini 2.5 Flash model** to analyze your expense data a
 ```bash
 git clone https://github.com/yourusername/ai-expense-tracker.git
 cd ai-expense-tracker
-
+hiiiii hekllooo
 ```
 ## License
 
