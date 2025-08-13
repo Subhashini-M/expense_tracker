@@ -5,24 +5,24 @@ A modern web-based expense tracker built using **React**, **FastAPI**, and **Pos
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Add, edit, and delete expenses
-- 📅 Date-wise expense tracking
-- 📊 Category, amount, and notes entry
-- 🤖 AI-powered natural language summary generation
-- 📄 PDF download of monthly summary (includes emojis 😎📉💰)
-- 🧾 Clean, responsive UI 
-- 🔒 FastAPI backend with secure API handling
+-  Add, edit, and delete expenses
+-  Date-wise expense tracking
+-  Category, amount, and notes entry
+-  AI-powered natural language summary generation
+-  PDF download of monthly summary 
+-  Clean, responsive UI 
+-  FastAPI backend with secure API handling
 
 ---
 
-## 🧠 Powered by AI
+##  Powered by AI
 
 This app uses **Google's Gemini 2.5 Flash model** to analyze your expense data and generate human-like, concise summaries
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Frontend | Backend | AI Integration | Database |
 |----------|---------|----------------|----------|
