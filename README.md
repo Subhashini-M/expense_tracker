@@ -12,7 +12,7 @@ A modern web-based expense tracker built using **React**, **FastAPI**, and **Pos
 - 📊 Category, amount, and notes entry
 - 🤖 AI-powered natural language summary generation
 - 📄 PDF download of monthly summary (includes emojis 😎📉💰)
-- 🧾 Clean, responsive UI (sky-blue themed)
+- 🧾 Clean, responsive UI 
 - 🔒 FastAPI backend with secure API handling
 
 ---
@@ -32,14 +32,6 @@ This app uses **Google's Gemini 2.5 Flash model** to analyze your expense data a
 
 ---
 
-## 📦 Installation
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/ai-expense-tracker.git
-cd ai-expense-tracker
-hiiiii hekllooo
-```
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

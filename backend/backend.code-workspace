@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "backend",
+			"path": "."
+		},
+		{
+			"name": "smart-spend",
+			"path": "../smart-spend"
+		},
+		{
+			"name": "expense-tracker",
+			"path": "../expense-tracker"
+		}
+	],
+	"settings": {}
+}
